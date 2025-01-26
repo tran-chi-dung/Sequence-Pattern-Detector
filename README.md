@@ -20,9 +20,8 @@ Advanced Sequence Pattern Optimizer is a web-based tool that analyzes numeric se
 - Easy-to-use web interface with real-time results and a history log.
 
 ## Demo
-![Demo Screenshot](demo(1).png)
-![Demo Screenshot](demo(2).png)
-
+https://drive.google.com/file/d/1OYMCZasxPxjqq21-sfoqXl1t86GidepJ/view?usp=sharing 
+https://drive.google.com/file/d/1xvYfQurOHuoNzeb37pHof88EUqqtZe9W/view?usp=sharing
 ## How to Use
 1. Clone the repository:
    ```bash
