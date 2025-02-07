@@ -63,6 +63,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ## Donations
 Consider donating if you find this project helpful and would like to support its development. Your support helps maintain and improve the tool.
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate?hosted_button_id=DE7NL3HFQYQ5Y)
+![Bitcoin QR Code](https://www.blockchain.com/qr?address=[1E2ecNC33WxTeKSXwc4znNXfLm6uv6hMnB])
+![Bitcoin QR Code](https://www.blockchain.com/qr?address=[1MSQ7BDx1VbZSYhQiB7E6ghE7sRQEmuVih])
 
 Thank you for your generosity!
